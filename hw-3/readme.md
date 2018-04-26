@@ -2,7 +2,7 @@ Alexis Good
 
 ["hello world!" sketch](https://alexisgood17.github.io/120-work/hw-3/)
 
-# Homework 3 Response 
+# Homework 3 Response
 
 #### Work Done this Cycle
 This homework cycle, I learned about using p5 and javascript to make code with visual results. I took several steps to complete this assignment:
