@@ -109,7 +109,7 @@ function draw() {
     arc(0, -75, 500, 500, PI, 0, CHORD);
     pop();
 
-    //face 
+    //face
     push();
     translate( 0, -175 );
 
